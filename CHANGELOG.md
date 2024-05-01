@@ -9,7 +9,7 @@ James Han
 Uriberto Lopez
 
 ### Added
-pcb_assignment folder
+pcb_assignment folder (with schematic) 
 layout.png 
 schematic.png 
 
@@ -17,4 +17,4 @@ schematic.png
 CHANGELOG
 
 ### Removed
-old schematic 
+n/a
