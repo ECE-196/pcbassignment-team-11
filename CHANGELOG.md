@@ -12,6 +12,8 @@ Uriberto Lopez
 pcb_assignment folder (with schematic) 
 layout.png 
 schematic.png 
+gerber file 
+updated schematic 
 
 ### Changed
 CHANGELOG
